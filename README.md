@@ -10,4 +10,9 @@ I performed an in-depth analysis of the Zomato dataset by integrating multiple t
 - Top 3 countries that gave maximum times zero ratings.
 - Which city is the most market captured ?
 - Which countries have the online delivery options?
-- Top 5 cuisines ? 
+- Top 5 cuisines ?
+
+## Process
+- I downloaded the dataset and varifying for any missing values.
+- There are two dataset one is data and second one is about country name we merged then to do EDA.
+- According to Questions we write the codes.
